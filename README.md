@@ -1,6 +1,6 @@
 # InstaBrute
 İnstagram BruteForce
 
-Run =
+                                    Run =
 
 python3 InstaBrute.py
