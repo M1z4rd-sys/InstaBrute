@@ -11,9 +11,9 @@ dosyanın olduğu dizi içerisinde yapıştırın.
 
 indirilmesi gereken mödüller =
 
-selenium
-termcolor
-webdriver_manager
+selenium,
+termcolor,\n
+webdriver_manager/n
 pynput
 
 Kullanılan Mödüller =
