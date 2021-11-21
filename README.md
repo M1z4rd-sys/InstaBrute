@@ -11,17 +11,19 @@ dosyanın olduğu dizi içerisinde yapıştırın.
 
 indirilmesi gereken mödüller =
 
+
 selenium,
-termcolor,\n
-webdriver_manager/n
-pynput
+termcolor,
+webdriver_manager,
+pynput,
+
 
 Kullanılan Mödüller =
 
-selenium
-termcolor
-webdriver_manager
-pynput
-colorama
-sys
-time
+selenium,
+termcolor,
+webdriver_manager,
+pynput,
+colorama,
+sys,
+time,
