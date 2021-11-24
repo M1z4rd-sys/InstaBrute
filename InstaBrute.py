@@ -56,8 +56,6 @@ for satir in files:
     time.sleep(3) 
     password.send_keys(Keys.BACK_SPACE * 20)
     print("[+] Denenen Şifreler = \n{}".format(satir))
-    if satir == True:
-        print(f'Doğru Şifre {password}')
     time.sleep(5) 
 
 
