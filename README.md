@@ -1,7 +1,7 @@
 # InstaBrute
 İnstagram BruteForce
 
-Çalıştırmak İçin =
+SETUP=
 
     İlk Önce setup.py Çalıştırarak Gerekli Mödülleri İndiriniz.
 
